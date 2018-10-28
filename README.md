@@ -14,6 +14,7 @@ Kumpulan Link dan Group Telegram untuk belajar tentang pemprograman di Kota Sema
   + [Odoo Semarang](https://t.me/odoosemarang)
   + [CloudJoglo - DevOps Semarang](https://t.me/cloudjoglo)
   + [GAMERANG (GameDev Semarang)](https://t.me/gamerang)
+  + [EDURA (Techarea)](https://t.me/eduratecharea)
   
 ### Startup
 
